@@ -1,4 +1,4 @@
-# README
+y# README
 
 SCTransformation extension can be used to ease up automated generation of Smart contract descriptors and Client application of Smart contract invocation protocol.
 
